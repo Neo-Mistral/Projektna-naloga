@@ -8,3 +8,9 @@ Projektna naloga vsebuje analizo dveh serij knjig: "Malazan Book of the Fallen" 
 Podatke o osebah sem analiziral v datoteki *Analiziranje_oseb.ipynb*. Podatke, ki se nanašajo na knjige v povezavi z osebami sem analiziral v datoteki *Analiziranje_knjig.ipynb*, podatke o dolžinah knjig pa v *Analiziranje_dolzin_knjig.ipynb*
 
 Datoteka za pridobivanje podatkov ter datoteke za analiziranje so v obliki Jupyter Notebooka. Pridobivanje podatkov je prilagojeno za prej navedeni spletni strani, prav tako pa so pri analiziranju prilagojena imena datotek.
+
+Ocenjeno 25.8.2023
+Ocena: 9
+Komentarji profesorja: - koda v drugi datoteki, se pravi, v ipynb samo poganjas funkcije da je bolj pregledno ( to ga je zelo motilo )
+                       - pridobivanje podatkov iz še kaksne dodatne strani ( jaz sem uporabil wikipedio, ki se smatra za bolj enostavno pridobivanje)
+                       - v README malo več podatkov ne spomnim se tocno kaj
